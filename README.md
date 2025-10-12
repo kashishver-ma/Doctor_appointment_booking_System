@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## [Doctor Appointment Booking System](https://doctorappointmentbooking-teal.vercel.app/) 
+A comprehensive healthcare appointment management system with role-based access.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+![img](https://github.com/kashishver-ma/kashishver-ma/blob/main/LANDING%20DOC.png)
+
+**Features:**
+- Developed a role-based authentication system for doctors, admins, and patients using Firebase Auth
+- Implemented real-time appointment scheduling with Firestore, ensuring seamless data updates
+
+**Key Learnings:**
+- Improved UI/UX using Tailwind CSS, optimizing accessibility and responsiveness
+- Enhanced data handling and security, ensuring real-time updates and secure user management
+- Gained expertise in Firebase authentication, role-based access control, and Firestore integration
+
+[Live Demo](https://doctorappointmentbooking-teal.vercel.app/) | [GitHub Repository](https://github.com/kashishver-ma/doctorappointmentbooking)
 
 ## Getting Started
 
