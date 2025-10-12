@@ -38,6 +38,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-![ADMIN DASHBOARD]([img1.png](https://github.com/kashishver-ma/Doctor_appointment_booking_System/blob/main/admin.png)  
-![DOCTOR DASHBOARd](https://github.com/kashishver-ma/Doctor_appointment_booking_System/blob/main/doctor.png)  
+![ADMIN DASHBOARD](https://github.com/kashishver-ma/Doctor_appointment_booking_System/blob/main/admin.png)  
+
 ![PATIENT DASHBOARD](https://github.com/kashishver-ma/Doctor_appointment_booking_System/blob/main/patient.png  )
